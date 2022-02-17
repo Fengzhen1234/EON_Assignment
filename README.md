@@ -1,4 +1,4 @@
 # EON_Assignment. 
 
 
-Please import the unity package in order to view
+Please create a new project and import the unity package in order to view
